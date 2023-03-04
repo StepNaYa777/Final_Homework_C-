@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\bin\Debug\net6.0\Project4_Diff.exe
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\bin\Debug\net6.0\Project4_Diff.deps.json
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\bin\Debug\net6.0\Project4_Diff.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\bin\Debug\net6.0\Project4_Diff.dll
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\bin\Debug\net6.0\Project4_Diff.pdb
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.dll
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\refint\Project4_Diff.dll
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.pdb
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\Project4_Diff.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\Examples\Project4_Diff\obj\Debug\net6.0\ref\Project4_Diff.dll
