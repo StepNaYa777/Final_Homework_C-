@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\bin\Debug\net6.0\Project3_Sum.exe
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\bin\Debug\net6.0\Project3_Sum.deps.json
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\bin\Debug\net6.0\Project3_Sum.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\bin\Debug\net6.0\Project3_Sum.dll
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\bin\Debug\net6.0\Project3_Sum.pdb
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.dll
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\refint\Project3_Sum.dll
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.pdb
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\Project3_Sum.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\Examples\Project3_Sum\obj\Debug\net6.0\ref\Project3_Sum.dll
