@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\bin\Debug\net6.0\Project1_Console.exe
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\bin\Debug\net6.0\Project1_Console.deps.json
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\bin\Debug\net6.0\Project1_Console.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\bin\Debug\net6.0\Project1_Console.dll
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\bin\Debug\net6.0\Project1_Console.pdb
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.dll
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\refint\Project1_Console.dll
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.pdb
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\Project1_Console.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\Examples\Project1_Console\obj\Debug\net6.0\ref\Project1_Console.dll
