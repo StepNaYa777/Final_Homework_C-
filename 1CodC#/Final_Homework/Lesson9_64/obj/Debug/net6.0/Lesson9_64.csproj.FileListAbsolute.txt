@@ -1,0 +1,15 @@
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\bin\Debug\net6.0\Lesson9_64.exe
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\bin\Debug\net6.0\Lesson9_64.deps.json
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\bin\Debug\net6.0\Lesson9_64.runtimeconfig.json
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\bin\Debug\net6.0\Lesson9_64.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\bin\Debug\net6.0\Lesson9_64.pdb
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.csproj.AssemblyReference.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.AssemblyInfoInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.AssemblyInfo.cs
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.csproj.CoreCompileInputs.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\refint\Lesson9_64.dll
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.pdb
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\Lesson9_64.genruntimeconfig.cache
+C:\Users\n.stepanova\Desktop\Examples\1CodC#\Final_Homework\Lesson9_64\obj\Debug\net6.0\ref\Lesson9_64.dll
